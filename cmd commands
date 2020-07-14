@@ -1,0 +1,26 @@
+#1 All network related information about ip adress and mac adress
+ipconfig/all
+
+#2 Get everything about your machine
+systeminfo
+
+#3 Get any website ip address
+ping url(type url of the website)
+
+#4 Change color of cmd
+color a
+
+#5 Get listing of all comands
+help
+
+#6 Listing of all folders in a directory
+tree
+
+#7 Information about the folder
+dir
+
+#8 Get listing of all programmes running
+tasklist
+
+#9 Get details of drivers installed
+driverquery
